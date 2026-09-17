@@ -149,8 +149,8 @@ literal "false"
 \shape smallcaps
 \begin_inset CommandInset href
 LatexCommand href
-name "github.com/kierkegaadangst"
-target "https://github.com/kierkegaardangst"
+name "github.com/seawsurf"
+target "https://github.com/seawsurf"
 literal "false"
 
 \end_inset
@@ -249,7 +249,7 @@ Research Assistant
 \noun off
 \color none
 Federal University of Santa Catarina – Laboratory of Computer Vision,
- Signal and Artificial Intelligence (VISIA UFSC)
+ Signal and Artificial Intelligence 
 \end_layout
 
 \begin_layout Plain Layout
@@ -289,8 +289,8 @@ Federal University of Santa Catarina – Laboratory of Computer Vision,
 \shape smallcaps
 \begin_inset CommandInset href
 LatexCommand href
-name "github.com/kierkegaardangst/computer_vision"
-target "github.com/kierkegaardangst/computer_vision"
+name "github.com/seawsurf/computer_vision"
+target "github.com/seawsurf/computer_vision"
 literal "false"
 
 \end_inset

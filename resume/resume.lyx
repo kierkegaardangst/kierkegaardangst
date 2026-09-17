@@ -149,8 +149,8 @@ literal "false"
 \shape smallcaps
 \begin_inset CommandInset href
 LatexCommand href
-name "github.com/kierkegaadangst"
-target "https://github.com/kierkegaardangst"
+name "github.com/seawsurf"
+target "https://github.com/seawsurf"
 literal "false"
 
 \end_inset
@@ -257,7 +257,7 @@ Federal University of Santa Catarina – Laboratory of Computer Vision,
 \end_layout
 
 \begin_layout Plain Layout
-• Contributed to improving and refining a computer vision model for fire and smoke detection on an aerial drone.
+Contributed to improving and refining a computer vision model for fire and smoke detection on an aerial drone.
 \end_layout
 
 \begin_layout Plain Layout
@@ -275,11 +275,11 @@ Federal University of Santa Catarina – Laboratory of Computer Vision,
 \uwave off
 \noun off
 \color none
-• Researched academic articles and public datasets to train a reliable fire and smoke detection model on a dataset of 95,000 images.
+Researched academic articles and public datasets to train a reliable fire and smoke detection model on a dataset of 95,000 images.
 \end_layout
 
 \begin_layout Plain Layout
-• Delivered technical presentations and research updates to an affiliated drone R&D company (Global Drones).
+Delivered technical presentations and research updates to an affiliated drone R&D company (Global Drones).
 \end_layout
 
 \begin_layout Plain Layout
@@ -289,8 +289,8 @@ Federal University of Santa Catarina – Laboratory of Computer Vision,
 \shape smallcaps
 \begin_inset CommandInset href
 LatexCommand href
-name "github.com/kierkegaardangst/computer_vision"
-target "github.com/kierkegaardangst/computer_vision"
+name "github.com/seawsurf/computer_vision"
+target "github.com/seawsurf/computer_vision"
 literal "false"
 
 \end_inset

@@ -1,1 +1,1 @@
-[CV Resume](resume/resume.pdf)
+[Resume](resume/resume.pdf)
